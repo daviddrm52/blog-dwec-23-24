@@ -66,8 +66,8 @@ const Inicio = () => {
             { cargando && <div>Cargando...</div> }
             { error && <div>{ error }</div> }
             { blogs && <BlogList blogs = { blogs } titulo = "Listado completo de aviones de Kai'Sa Airlines"/>}
-            {/* <p>{ nombre }</p> */}
-            {/* <p><button onClick={() => setNombre("Aqua Hoshino")}>Cambio de nombre</button></p> */}
+            <p>{ nombre }</p>
+            <p><button onClick={() => setNombre("Aqua Hoshino")}>Cambio de nombre</button></p>
             {/* <BlogList blogs = { blogs.filter(blog => blog.autor === "daviddrm52") } titulo = "Blogs de daviddrm52" />
             <BlogList blogs = { blogs.filter(blog => blog.id === 2) } titulo = "Blog del dia" />
             <BlogList blogs = { blogs.filter(blog => blog.titulo === "Air Chiquin") } titulo = "Blog de la semana"/> */}
