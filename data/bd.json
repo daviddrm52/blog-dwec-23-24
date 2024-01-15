@@ -1,0 +1,1064 @@
+{
+    "blogs": [
+        {
+            "Matricula": "CHN105KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": "Y16",
+            "Años": 27,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN106KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": "Y16",
+            "Años": 27,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN107KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": "Y16",
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN108KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": "Y16",
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN126KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": "Y24",
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN127KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": "Y24",
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, soon to be retired"
+          },
+          {
+            "Matricula": "CHN128KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": "Y24",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN129KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": "Y24",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN130KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": "Y24",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN210KS",
+            "Modelo": "AC 110-10",
+            "Capacidad": "Y18",
+            "Años": 1,
+            "Nombre": "Isla de Shurima",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN211KS",
+            "Modelo": "AC 110-10",
+            "Capacidad": "Y18",
+            "Años": 1,
+            "Nombre": "Isla del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN212KS",
+            "Modelo": "AC 110-10",
+            "Capacidad": "Y18",
+            "Años": 1,
+            "Nombre": "Isla de Kai'Sa",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN213KS",
+            "Modelo": "AC 110-10",
+            "Capacidad": "Y18",
+            "Años": 1,
+            "Nombre": "Isla de Icathia",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN214KS",
+            "Modelo": "AC 110-10",
+            "Capacidad": "Y18",
+            "Años": 1,
+            "Nombre": "Isla de Bel'Veth",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN220KS",
+            "Modelo": "AC 120-10",
+            "Capacidad": "Y52",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN221KS",
+            "Modelo": "AC 120-10",
+            "Capacidad": "Y52",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN222KS",
+            "Modelo": "AC 120-10",
+            "Capacidad": "Y52",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN240KS",
+            "Modelo": "AC 110-20",
+            "Capacidad": "Y24",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN410KS",
+            "Modelo": "C400-100",
+            "Capacidad": "Y144",
+            "Años": 20,
+            "Nombre": "Chubby Kai'Sa",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN420KS",
+            "Modelo": "C400-200",
+            "Capacidad": "Y180",
+            "Años": 30,
+            "Nombre": "Puente Aereo",
+            "Estado": "Activo",
+            "Librea": "OneWorld livery",
+            "Estado_actual": "with Pride 2023 cs until Nov.23, will be retired in 2024"
+          },
+          {
+            "Matricula": "CHN430KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 21,
+            "Nombre": "La hija del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "To be preserved soon at Kai'Sa Airport (KSA)"
+          },
+          {
+            "Matricula": "CHN431KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 19,
+            "Nombre": "La joven Kaisa",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN432KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 18,
+            "Nombre": "La cazadora del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN433KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 18,
+            "Nombre": "OneWorld Kai'Sa Airlines",
+            "Estado": "Activo",
+            "Librea": "OneWorld livery",
+            "Estado_actual": "Back to service 11/10/2023, named ??? ? until 22/11/2023"
+          },
+          {
+            "Matricula": "CHN434KS",
+            "Modelo": "C400-300M",
+            "Capacidad": "Y144/Combi",
+            "Años": 18,
+            "Nombre": "Isla del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN436KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 17,
+            "Nombre": "Chiquitin.S.A.",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN437KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 18,
+            "Nombre": "Solari & Lunari 500 years",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN438KS",
+            "Modelo": "C400-300",
+            "Capacidad": "Y144",
+            "Años": 19,
+            "Nombre": "Yun Tal",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN439KS",
+            "Modelo": "C400-300R",
+            "Capacidad": "Y144",
+            "Años": 22,
+            "Nombre": "Volcan del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN520KS",
+            "Modelo": "CHJ 520-800",
+            "Capacidad": "Y52",
+            "Años": 3,
+            "Nombre": "Lluvia de Icathia",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN521KS",
+            "Modelo": "CHJ 520-800",
+            "Capacidad": "Y52",
+            "Años": 2,
+            "Nombre": "Buscadora del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN522KS",
+            "Modelo": "CHJ 520-800",
+            "Capacidad": "Y52",
+            "Años": 2,
+            "Nombre": "Kai'Sa Retro",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN523KS",
+            "Modelo": "CHJ 520-800",
+            "Capacidad": "Y52",
+            "Años": 2,
+            "Nombre": "Supercarga",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN524KS",
+            "Modelo": "CHJ 520-800",
+            "Capacidad": "Y52",
+            "Años": 1,
+            "Nombre": "Instinto Asesino",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN560KS",
+            "Modelo": "CHJ 560-700ER",
+            "Capacidad": "Y102",
+            "Años": 2,
+            "Nombre": "Kai'Sa, la hija del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN561KS",
+            "Modelo": "CHJ 560-700ER",
+            "Capacidad": "Y102",
+            "Años": 1,
+            "Nombre": "Isla de Kai'Sa",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN562KS",
+            "Modelo": "CHJ 560-700ER",
+            "Capacidad": "Y102",
+            "Años": 1,
+            "Nombre": "Isla de Icathia",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN563KS",
+            "Modelo": "CHJ 560-700ER",
+            "Capacidad": "Y102",
+            "Años": 1,
+            "Nombre": "Isla de Shurima",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN564KS",
+            "Modelo": "CHJ 560-700ER",
+            "Capacidad": "Y102",
+            "Años": 1,
+            "Nombre": "Isla del Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN565KS",
+            "Modelo": "CHJ 560-900",
+            "Capacidad": "C12Y168",
+            "Años": 1,
+            "Nombre": "Bel'Veth",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN566KS",
+            "Modelo": "CHJ 560-900",
+            "Capacidad": "C12Y168",
+            "Años": 1,
+            "Nombre": "Vel'Koz",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN567KS",
+            "Modelo": "CHJ 560-900",
+            "Capacidad": "C12Y168",
+            "Años": 1,
+            "Nombre": "Rek'Sai",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN568KS",
+            "Modelo": "CHJ 560-900",
+            "Capacidad": "C12Y168",
+            "Años": 1,
+            "Nombre": "Cho'Gath",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN569KS",
+            "Modelo": "CHJ 560-900",
+            "Capacidad": "C12Y168",
+            "Años": 1,
+            "Nombre": "Kog'Mau",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN590KS",
+            "Modelo": "CHJ 520-900",
+            "Capacidad": "Y80",
+            "Años": 1,
+            "Nombre": "Evelynn",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, 200th CHJ 520 build sticker"
+          },
+          {
+            "Matricula": "CHN591KS",
+            "Modelo": "CHJ 520-900",
+            "Capacidad": "Y80",
+            "Años": 1,
+            "Nombre": "Akali",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN592KS",
+            "Modelo": "CHJ 520-900",
+            "Capacidad": "Y80",
+            "Años": 1,
+            "Nombre": "Kaisa",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN593KS",
+            "Modelo": "CHJ 520-900",
+            "Capacidad": "Y80",
+            "Años": 1,
+            "Nombre": "Ahri",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN594KS",
+            "Modelo": "CHJ 520-900",
+            "Capacidad": "Y80",
+            "Años": 1,
+            "Nombre": "Seraphine",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN630KS",
+            "Modelo": "Chiquitin C600-300",
+            "Capacidad": "C24Y213",
+            "Años": 22,
+            "Nombre": "Acantilados de Icathia",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Returned to service, conversion to cargo canceled"
+          },
+          {
+            "Matricula": "CHN631KS",
+            "Modelo": "Chiquitin C600-300",
+            "Capacidad": "C24Y213",
+            "Años": 12,
+            "Nombre": "Air Chiquin, my beloved",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, was CO-CAE"
+          },
+          {
+            "Matricula": "CHN632KS",
+            "Modelo": "Chiquitin C600-300",
+            "Capacidad": "C24Y213",
+            "Años": 12,
+            "Nombre": "Valle Nevado",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active, was CO-CAF"
+          },
+          {
+            "Matricula": "CHN680KS",
+            "Modelo": "Chiquitin C600-800",
+            "Capacidad": "C20Y231",
+            "Años": 1,
+            "Nombre": "El Vac�o",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN681KS",
+            "Modelo": "Chiquitin C600-800",
+            "Capacidad": "C20Y231",
+            "Años": 1,
+            "Nombre": "Kassadin",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN737KS",
+            "Modelo": "Boeing 737-7AC(WL)",
+            "Capacidad": "",
+            "Años": 6,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN751KS",
+            "Modelo": "Boeing 757-2AC(WL)",
+            "Capacidad": "",
+            "Años": 17,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN752KS",
+            "Modelo": "Boeing 757-2AC(WL)",
+            "Capacidad": "",
+            "Años": 18,
+            "Nombre": "",
+            "Estado": "Activo",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Active"
+          },
+          {
+            "Matricula": "CHN241KS",
+            "Modelo": "AC 110-20",
+            "Capacidad": 24,
+            "Años": 0,
+            "Nombre": "",
+            "Estado": "En orden",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Awaiting delivery"
+          },
+          {
+            "Matricula": "CHN242KS",
+            "Modelo": "AC 110-20",
+            "Capacidad": 24,
+            "Años": 0,
+            "Nombre": "",
+            "Estado": "En orden",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "In order"
+          },
+          {
+            "Matricula": "CHN243KS",
+            "Modelo": "AC 110-20",
+            "Capacidad": 24,
+            "Años": 0,
+            "Nombre": "",
+            "Estado": "En orden",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "In order"
+          },
+          {
+            "Matricula": "CHN244KS",
+            "Modelo": "AC 110-20",
+            "Capacidad": 24,
+            "Años": 0,
+            "Nombre": "",
+            "Estado": "En orden",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "In order"
+          },
+          {
+            "Matricula": "CHN190KS",
+            "Modelo": "CHJ 100 MAX 9",
+            "Capacidad": 30,
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU, now stored"
+          },
+          {
+            "Matricula": "CHN191KS",
+            "Modelo": "CHJ 100 MAX 9",
+            "Capacidad": 30,
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU, now stored"
+          },
+          {
+            "Matricula": "CHN192KS",
+            "Modelo": "CHJ 100 MAX 9",
+            "Capacidad": 30,
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU, now stored"
+          },
+          {
+            "Matricula": "CHN580KS",
+            "Modelo": "CHJ 520-800EC",
+            "Capacidad": "52/Cargo",
+            "Años": 1,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Never entered service, stayed with CHJ because of CHJ 520 E variants being canceled"
+          },
+          {
+            "Matricula": "CHN581KS",
+            "Modelo": "CHJ 520-800EC",
+            "Capacidad": "52/Cargo",
+            "Años": "",
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "No livery",
+            "Estado_actual": "Not build"
+          },
+          {
+            "Matricula": "CHN582KS",
+            "Modelo": "CHJ 520-800EC",
+            "Capacidad": "52/Cargo",
+            "Años": "",
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "No livery",
+            "Estado_actual": "Not build"
+          },
+          {
+            "Matricula": "CHN583KS",
+            "Modelo": "CHJ 520-800EC",
+            "Capacidad": "52/Cargo",
+            "Años": "",
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "No livery",
+            "Estado_actual": "Not build"
+          },
+          {
+            "Matricula": "CHN584KS",
+            "Modelo": "CHJ 520-800EC",
+            "Capacidad": "52/Cargo",
+            "Años": "",
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "No livery",
+            "Estado_actual": "Not build"
+          },
+          {
+            "Matricula": "CHN990KS",
+            "Modelo": "CHJ 100-900LR",
+            "Capacidad": 24,
+            "Años": 4,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU now with Chiquitin Regional"
+          },
+          {
+            "Matricula": "CHN991KS",
+            "Modelo": "CHJ 100-900LR",
+            "Capacidad": 24,
+            "Años": 3,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU now with Chiquitin Regional"
+          },
+          {
+            "Matricula": "CHN992KS",
+            "Modelo": "CHJ 100-900LR",
+            "Capacidad": 24,
+            "Años": 3,
+            "Nombre": "",
+            "Estado": "NTU",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "NTU now with Chiquitin Regional"
+          },
+          {
+            "Matricula": "CHN304KS",
+            "Modelo": "AP 300-200",
+            "Capacidad": 32,
+            "Años": 25,
+            "Nombre": "",
+            "Estado": "Preservado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "To be preserved soon at Kai'Sa Airport (KSA)"
+          },
+          {
+            "Matricula": "CHN500KS",
+            "Modelo": "CHJ 500-100C",
+            "Capacidad": 50,
+            "Años": 46,
+            "Nombre": "Isla de Kai'Sa",
+            "Estado": "Preservado",
+            "Librea": "Kai'Sa Airlines 1972",
+            "Estado_actual": "Preserved"
+          },
+          {
+            "Matricula": "CHN501KS",
+            "Modelo": "CHJ 500-100EC",
+            "Capacidad": "50/Cargo",
+            "Años": 40,
+            "Nombre": "Isla de Icathia",
+            "Estado": "Preservado",
+            "Librea": "Kai'Sa Airlines 1992",
+            "Estado_actual": "Preserved"
+          },
+          {
+            "Matricula": "CHN610KS",
+            "Modelo": "Chiquitin C600-100",
+            "Capacidad": 180,
+            "Años": 37,
+            "Nombre": "",
+            "Estado": "Preservado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored, to be preserved"
+          },
+          {
+            "Matricula": "CHN100KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": 16,
+            "Años": 31,
+            "Nombre": "Isla de Shurima",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN101KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": 16,
+            "Años": 31,
+            "Nombre": "Isla del Vac�o",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN102KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": 16,
+            "Años": 28,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN103KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": 16,
+            "Años": 28,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN104KS",
+            "Modelo": "AC 10-10",
+            "Capacidad": 16,
+            "Años": 27,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN120KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": 24,
+            "Años": 25,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN121KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": 24,
+            "Años": 25,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN122KS",
+            "Modelo": "AC-10-20CF",
+            "Capacidad": "Cargo",
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "To be CHN100KF"
+          },
+          {
+            "Matricula": "CHN123KS",
+            "Modelo": "AC-10-20F",
+            "Capacidad": "Cargo",
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "White livery",
+            "Estado_actual": "To be CHN101KF"
+          },
+          {
+            "Matricula": "CHN124KS",
+            "Modelo": "AC 10-20",
+            "Capacidad": 22,
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Black livery",
+            "Estado_actual": "Converted to cargo, to be CHN109KF"
+          },
+          {
+            "Matricula": "CHN125KS",
+            "Modelo": "AC-10-20CF",
+            "Capacidad": "Cargo",
+            "Años": 24,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "To be CHN102KF"
+          },
+          {
+            "Matricula": "CHN201KS",
+            "Modelo": "AC 20-10",
+            "Capacidad": 48,
+            "Años": 32,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN202KS",
+            "Modelo": "AC 20-10",
+            "Capacidad": 48,
+            "Años": 32,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN203KS",
+            "Modelo": "AC 20-10PF",
+            "Capacidad": "Cargo",
+            "Años": 31,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN300KS",
+            "Modelo": "AP 300-200",
+            "Capacidad": 32,
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN301KS",
+            "Modelo": "AP 300-200F",
+            "Capacidad": "Cargo",
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN302KS",
+            "Modelo": "AP 300-200",
+            "Capacidad": 32,
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN303KS",
+            "Modelo": "AP 300-200",
+            "Capacidad": 32,
+            "Años": 26,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN435KS",
+            "Modelo": "C400-300F",
+            "Capacidad": "Cargo",
+            "Años": 1,
+            "Nombre": "Bahia de Shurima",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "To be CHN103KF"
+          },
+          {
+            "Matricula": "CHN450KS",
+            "Modelo": "C400-500",
+            "Capacidad": 111,
+            "Años": 21,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Aerospace Innovations CHN100IA"
+          },
+          {
+            "Matricula": "CHN451KS",
+            "Modelo": "C400-500",
+            "Capacidad": 108,
+            "Años": 21,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines old livery",
+            "Estado_actual": "Aerospace Innovations CHN109IA"
+          },
+          {
+            "Matricula": "CHN452KS",
+            "Modelo": "C400-500",
+            "Capacidad": 108,
+            "Años": 21,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Aerolineas Chiquitianas Livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN453KS",
+            "Modelo": "C400-500CF",
+            "Capacidad": "108/Cargo",
+            "Años": 20,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "No livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN454KS",
+            "Modelo": "C400-500",
+            "Capacidad": 108,
+            "Años": 20,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "White livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN455KS",
+            "Modelo": "C400-500",
+            "Capacidad": 114,
+            "Años": 20,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Old CHJ house livery (white out)",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN456KS",
+            "Modelo": "C400-500",
+            "Capacidad": "Cargo",
+            "Años": 20,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Chiquitin Airlines Cargo livery (white out)",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN530KS",
+            "Modelo": "CHJ 520-100E",
+            "Capacidad": 52,
+            "Años": 16,
+            "Nombre": "",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "Stored in Chiquitin.S.A Airport (CSA)"
+          },
+          {
+            "Matricula": "CHN6008X",
+            "Modelo": "Chiquitin C600-800",
+            "Capacidad": 262,
+            "Años": 2,
+            "Nombre": "K/DA ALL OUT",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2022 livery",
+            "Estado_actual": "wfu 19/10/2023, corrosion was founded in the airframe, tu by Chiquitin.S.A."
+          },
+          {
+            "Matricula": "CHN510KS",
+            "Modelo": "C500-100M",
+            "Capacidad": "Combi",
+            "Años": 35,
+            "Nombre": "Ciudad Chiquitin",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2018 livery",
+            "Estado_actual": "wfu 01/01/2020, still stored"
+          },
+          {
+            "Matricula": "CHN511KS",
+            "Modelo": "C500-100M",
+            "Capacidad": "Combi",
+            "Años": 35,
+            "Nombre": "Ciudad Chiquin",
+            "Estado": "Retirado",
+            "Librea": "Kai'Sa Airlines 2018 livery",
+            "Estado_actual": "wfu 01/01/2020, still stored"
+          }
+    ]
+}
